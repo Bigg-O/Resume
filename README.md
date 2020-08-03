@@ -54,17 +54,19 @@ A graphical website that shows detailed crime data of each states from 1979 to 2
 
 Skills
 ------
-**Languages:** JavaScript, Java, Ruby, HTML, CSS, SQL
+**Programming Languages:** JavaScript, Java, Ruby, HTML, CSS, SQL
 
 **Frameworks/Libraries:** NodeJS, ExpressJS, ReactJS, Ruby on Rails, Bootstrap
 
 **Tools:** Git, MongoDB, PostgreSQL, Netlify, Heroku
 
+**Human Languages:** English, Korean, Spanish
+
 
 Education
 ------
-- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
-- **IU Founders Scholar**, Indiana University (2012)
-- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
+**Flatiron School**, Software Engineering Certificate (09/2019 - 01/2020)
+- Classes: Object-Oriented Programming, Product Management, Web and Front-End Frameworks
 
-
+**The University of Texas at Austin**, worked towards B.S. Computer Science (09/2014 - 12/2017)
+- Classes: Computer Organization and Architecture, Data Structure, Discrete Math for C.S,  Calculus
