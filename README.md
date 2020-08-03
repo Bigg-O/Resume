@@ -1,93 +1,49 @@
-Johnny Coder
-============
+Wookeun Oscar Song
+======
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+#### Data enthusiast with a strong background in math, science and programming. 
+###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
+
 
 Education
 ---------
+**Ph.D. program in Applied Physics, Yale University** (2012-present)
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+- Research on transport in metal nanostructures. 
+- Coursework in physics, engineering, and statistics.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+**B.S. in Physics, Indiana University** (2008-2011)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
 
-    *Minor: Awesomeology*
+**MOOCs** (ongoing)
+
+- Machine Learning (Stanford, Andrew Ng)
 
 Experience
-----------
+---------
+**Independent Researcher, Yale University** (2012-present, New Haven CT)
 
-**Your Most Recent Work Experience:**
+- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
 
-* First item
+- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Skills
+------
+**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
 
-**That Other Job You Had**
+**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
 
-Also with a short description.
+Awards
+------
+- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
+- **IU Founders Scholar**, Indiana University (2012)
+- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
 
-Technical Experience
---------------------
+Projects
+--------
+**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
