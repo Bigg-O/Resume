@@ -9,18 +9,32 @@ Wookeun Oscar Song
 
 Work Experience
 ---------
-**Ph.D. program in Applied Physics, Yale University** (2012-present)
+**Full Stack Web Developer  /  Freelance** (09/2019 - Present)
 
-- Research on transport in metal nanostructures. 
-- Coursework in physics, engineering, and statistics.
+- Build and maintain all the work of databases, servers, systems engineering, and clients of web apps
+- Current Client:   Menos
+- Building a secure multi-way direct payment system for both C2B and B2B to cut third party fee
+- Implementing a complex relational database to enhance product and user management for employees
 
-**B.S. in Physics, Indiana University** (2008-2011)
+**USA Climbing certified Routesetter  /  Austin Bouldering Project** (07/2017 - 09/2019)
 
-- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
+**Front-End Web Developer  /  UT at Austin Competition Climbing Team** (09/2016 - 09/2017)
 
-**MOOCs** (ongoing)
+- Managed an eye-catching website with most up to date information to maintain donors’ annual funds
+- Built functional and aesthetic structures of responsive web pages to promote public team events
 
-- Machine Learning (Stanford, Andrew Ng)
+**Computer/Hardware Network Support Specialist  /  Austin Korean School** (08/2015 - 09/2019)
+
+- Resolved technical issues in classrooms of 200+ students to maintain a consistent learning experience
+- Assisted event planners with media production attended by 1.5k+ visitors annually
+
+**Tech Advisor/Floor Salesman  /  UT at Austin Campus Computer Store** (09/2014 - 02/2015)
+
+**Lead Robotics Software/Electrical Engineer  /  Miracles & Machines** (11/2012 - 05/2014)
+
+- Built software and electrical components of multi-functional robots that drive, catch, collect, carry, throw objects both autonomously and tele-operationally, assisted by sensor feedback control system
+- Led software & electrical teams to advance to finals of competitive 100+ team international tournaments
+- Managed cross-functional integrations between mechanical, electrical, and software components
 
 Projects
 --------
