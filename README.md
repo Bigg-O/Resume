@@ -38,9 +38,12 @@ Work Experience
 
 Projects
 --------
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
+**[DareMe](https://dareme.netlify.com/)** (2015-present)
 
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
+A social media platform where users dare each other to challenges for profit
+- Designed and built a multi-layer relational data system on Atlas cloud to handle state changes
+- Utilized JWT to store and transport encrypted user information from the client-side to the cloud
+
 
 Skills
 ------
