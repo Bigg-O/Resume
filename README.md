@@ -38,18 +38,28 @@ Work Experience
 
 Projects
 --------
-**[DareMe](https://dareme.netlify.com/)** (2015-present)
+**[DareMe](https://dareme.netlify.com/)** - Repos: [back-end](https://github.com/Bigg-O/DareMe_backend), [front-end](https://github.com/Bigg-O/DareMe_frontend)
 
 A social media platform where users dare each other to challenges for profit
 - Designed and built a multi-layer relational data system on Atlas cloud to handle state changes
 - Utilized JWT to store and transport encrypted user information from the client-side to the cloud
 
+**[FBI Crime Stats](https://crime-stats-app.herokuapp.com/)** - Repo: [full-stack](https://github.com/Bigg-O/Crime-Stats)
+
+A graphical website that shows detailed crime data of each states from 1979 to 2019
+- Scraped raw crime data directly from usa.gov to provide users the most updated accurate data
+- Developed front-end using Vanilla JavaScript for low level controls and direct DOM manipulation
+
+
 
 Skills
 ------
-**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
+**Languages:** JavaScript, Java, Ruby, HTML, CSS, SQL
 
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
+**Frameworks/Libraries:** NodeJS, ExpressJS, ReactJS, Ruby on Rails, Bootstrap
+
+**Tools:** Git, MongoDB, PostgreSQL, Netlify, Heroku
+
 
 Education
 ------
