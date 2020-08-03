@@ -2,9 +2,9 @@ Wookeun Oscar Song
 ======
 
 #### Full Stack Web Developer 
-###### [ 512 701 0704 ] ..  . [ wookeun.s@gmail.com ] .
-###### [ wookeun.s@gmail.com ] . [wookeun-s.com](https://www.wookeun-s.com/) ]
-###### [github.com/bigg-o](http://www.github.com/bigg-o) ] . [linkedin.com/in/wookeun-s](https://www.linkedin.com/in/wookeun-s) ]
+###### [ 512 701 0704 ]
+###### [ wookeun.s@gmail.com ] . [ [wookeun-s.com](https://www.wookeun-s.com/) ]
+###### [ [github.com/bigg-o](http://www.github.com/bigg-o) ] . [ [linkedin.com/in/wookeun-s](https://www.linkedin.com/in/wookeun-s) ]
 
 
 Education
