@@ -7,7 +7,7 @@ Wookeun Oscar Song
 ###### [ [github.com/bigg-o](http://www.github.com/bigg-o) ] . [ [linkedin.com/in/wookeun-s](https://www.linkedin.com/in/wookeun-s) ]
 
 
-Education
+Work Experience
 ---------
 **Ph.D. program in Applied Physics, Yale University** (2012-present)
 
@@ -22,7 +22,7 @@ Education
 
 - Machine Learning (Stanford, Andrew Ng)
 
-Experience
+Projects
 ---------
 **Independent Researcher, Yale University** (2012-present, New Haven CT)
 
@@ -38,7 +38,7 @@ Skills
 
 **Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
 
-Awards
+Education
 ------
 - **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
 - **IU Founders Scholar**, Indiana University (2012)
