@@ -23,14 +23,10 @@ Work Experience
 - Machine Learning (Stanford, Andrew Ng)
 
 Projects
----------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+--------
+**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
-
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
-
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
 
 Skills
 ------
@@ -44,8 +40,4 @@ Education
 - **IU Founders Scholar**, Indiana University (2012)
 - **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
 
-Projects
---------
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
 
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
