@@ -9,9 +9,9 @@ Wookeun Oscar Song
 
 Work Experience
 ---------
-**Quality Engineer** (09/2019 - Present)
+**Quality Engineer  /  Qualitest** (09/2019 - Present)
 
-**Co-Founder  /  Software Developer** (10/2020 - Present)
+**Co-Founder/Software Developer  /  Menos** (10/2020 - Present)
 
 **Full Stack Web Developer  /  Freelance** (09/2019 - 09/2020)
 
