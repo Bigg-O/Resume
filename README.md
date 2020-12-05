@@ -9,7 +9,9 @@ Wookeun Oscar Song
 
 Work Experience
 ---------
-**Full Stack Web Developer  /  Freelance** (09/2019 - Present)
+**Quality Engineer** (09/2019 - Present)
+**Co-Founder  /  Software Developer** (10/2020 - Present)
+**Full Stack Web Developer  /  Freelance** (09/2019 - 09/2020)
 
 - Build and maintain all the work of databases, servers, systems engineering, and clients of web apps
 - Current Client:   Menos
