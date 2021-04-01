@@ -9,23 +9,26 @@ Wookeun Oscar Song
 
 Work Experience
 ---------
-**Software Quality Engineer  -  @Google via Qualitest** (10/2019 - Present)
+**Software Quality Engineer  -  @Google via Qualitest** (10/2020 - Present)
+
 - Improved Google Assistant AI and ML algorithms while working closely with Google software developers
 - Analyzed failed data and further related diagnosis to identify, isolate, and track bugs throughout testing
 
-**Co-Founder / Software Developer  -  @Menos** (10/2020 - Present)
+**Co-Founder / Software Developer  -  @Menos** (01/2020 - Present)
+
 - Established complex international supply chain database to easily scale any amount of the supply flow of the carbon zero upcycling production line
 - Manage company ambassadors across the nation to connect directly with partner companies and consumers
 - Building youth sport climbing team in México to enhance accessibility and economic sustainability of the sport
 
-**Full Stack Web Developer  -  Freelance** (09/2019 - 09/2020)
+**Full Stack Web Developer  -  Freelance** (09/2019 - 10/2020)
 
 - Build and maintain all the work of databases, servers, systems engineering, and clients of web apps
-- Current Client:   Menos
-- Building a secure multi-way direct payment system for both C2B and B2B to cut third party fee
-- Implementing a complex relational database to enhance product and user management for employees
+- Implemented a complex relational database to enhance product and user management for employees
 
 **USA Climbing certified Routesetter  -  @Austin Bouldering Project** (07/2017 - 09/2019)
+
+- Ensured route quality, style and grade distribution for 200+ problems at the largest bouldering gym in the US
+- Incorporated unique routesetting features to the biggest annual bouldering competition in the North America that has $10K cash purse with 550+ participants ranging from youth to professional competitors
 
 **Front-End Web Developer  -  @UT at Austin Competition Climbing Team** (09/2016 - 09/2017)
 
@@ -38,6 +41,9 @@ Work Experience
 - Assisted event planners with media production attended by 1.5k+ visitors annually
 
 **Tech Advisor/Floor Salesman  -  @UT at Austin Campus Computer Store** (09/2014 - 02/2015)
+
+- Provided software and hardware support to university departments to ensure successful daily operations
+- Assisted in sales consultation and post-sales technical support to improve customer satisfaction
 
 **Lead Robotics Software/Electrical Engineer  -  @Miracles & Machines** (11/2012 - 05/2014)
 
