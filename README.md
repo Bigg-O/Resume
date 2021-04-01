@@ -9,7 +9,9 @@ Wookeun Oscar Song
 
 Work Experience
 ---------
-**Quality Engineer  -  @Qualitest** (09/2019 - Present)
+**Software Quality Engineer  -  @Google via Qualitest** (10/2019 - Present)
+- Improved ​Google Assistant​ AI and ML algorithms while working closely with ​Google​ software developers
+- Analyzed failed data and further related diagnosis to identify, isolate, and track bugs throughout testing
 
 **Co-Founder / Software Developer  -  @Menos** (10/2020 - Present)
 
