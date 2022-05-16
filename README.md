@@ -3,27 +3,27 @@ Wookeun Oscar Song
 
 #### Full Stack Web Developer 
 ###### [ 512 701 0704 ]
-###### [ wookeun.s@gmail.com ] . [ [wookeun-s.com](https://www.wookeun-s.com/) ]
+###### [ wookeun.s@gmail.com ] . [ [wookeun.com](https://www.wookeun.com/) ]
 ###### [ [github.com/bigg-o](http://www.github.com/bigg-o) ] . [ [linkedin.com/in/wookeun-s](https://www.linkedin.com/in/wookeun-s) ]
 
 
 Work Experience
 ---------
-**Software Quality Engineer  -  @Google via Qualitest** (10/2020 - Present)
-
-- Improved Google Assistant AI and ML algorithms while working closely with Google software developers
-- Analyzed failed data and further related diagnosis to identify, isolate, and track bugs throughout testing
-
-**Co-Founder / Software Developer  -  @Menos** (01/2020 - Present)
-
-- Established complex international supply chain database to easily scale any amount of the supply flow of the carbon zero upcycling production line
-- Manage company ambassadors across the nation to connect directly with partner companies and consumers
-- Building youth sport climbing team in México to enhance accessibility and economic sustainability of the sport
-
-**Full Stack Web Developer  -  Freelance** (09/2019 - 10/2020)
+**Full Stack Web Developer  -  @Menos (Freelance)** (09/2019 - Present)
 
 - Build and maintain all the work of databases, servers, systems engineering, and clients of web apps
-- Implemented a complex relational database to enhance product and user management for employees
+- Established backend server to easily track and manage data flow of an international supply chain
+- Designed and built a database architecture to strengthen product and user management for employees
+
+**Software Developer  -  @Pearson (Contract)** (08/2021 - 02/2022)
+
+- Developed, implemented and tested accessibility friendly software for Pearson’s main product used by school boards across U.S to ensure examinations are fair and easy to use for both students and test makers
+- Identified and investigated software defects and bugs to write comprehensive documents for developers to easily initialize solving technical problems and to enhance easy transfers of knowledge to the clients
+
+**Software Quality Engineer  -  @Google via Qualitest (Full-time)** (10/2020 - 08/2021)
+
+- Improved action results of Google Assistant’s AI and ML algorithms to increase their success results rate 
+- Analyzed failed data and further related diagnosis to identify, isolate, and track bugs throughout testing
 
 **USA Climbing certified Routesetter  -  @Austin Bouldering Project** (07/2017 - 09/2019)
 
